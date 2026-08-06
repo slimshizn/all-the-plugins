@@ -42,6 +42,7 @@ fantasticfears/discourse-chinese-localization-pack
 fantasticfears/discourse-etiquette
 featheredtoast/discourse-pushover-notifications
 featheredtoast/discourse-pwned-passwords
+focallocal/dcs-discourse-plugin
 fokx/discourse-cjk-formatter
 fzngagan/discourse-dictionary
 gdpelican/mingle
@@ -155,8 +156,6 @@ sudaraka94/discourse-opencollective-integration
 sylque/discourse-a2a-bbcode
 sylque/discourse-home-page
 sylque/discourse-multilingual-post
-sylque/discpage
-sylque/docuss
 techapj/discourse-custom-topic-button
 techapj/discourse-topic-group-button
 tgxworld/discourse-graphql
