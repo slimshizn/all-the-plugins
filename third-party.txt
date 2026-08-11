@@ -90,7 +90,7 @@ merefield/discourse-slack-bot
 merefield/discourse-tc-bars
 merefield/discourse-user-network-vis
 merefield/discourse-word-cloud
-merefield/discourse-workflow
+merefield/discourse-process-manager
 MiguelAngelLV/steamuser-onebox
 Mittineague/discourse-kinder-guardian
 Mittineague/discourse-plugin-outlet-locations
